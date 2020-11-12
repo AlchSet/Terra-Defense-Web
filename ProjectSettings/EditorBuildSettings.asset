@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 4e2479c2b32d61140b2a870b7421ba28
+  - enabled: 1
+    path: Assets/Scenes/PlanetDefense.unity
+    guid: e824454cbf202a543ac00c72752d8225
+  - enabled: 0
+    path: Assets/Scenes/Tutorial.unity
+    guid: 455cd9e7e882f3c499a7042171234c41
+  m_configObjects: {}
